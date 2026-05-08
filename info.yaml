@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "8-bit CPU"      # Project title
+  title:        "CPU 8 bits"      # Project title
   author:       "Nano CNMN IPN"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "An 8-bit CPU that performs instructions such as arithmetic and load instructions, and outputs the result of each instruction."      # One line description of what your project does
